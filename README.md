@@ -1,5 +1,7 @@
 # ICP-5C47D47E-2026-REPO - Cloud Computing Internship
 
+Intern: CHUKWU CHIBUIKE DANIEL Program: Cloud Computing Self-Learning Internship Organization: InternCareerPath Portal ID: ICP-5C47D47E-2026 Duration: 6 Weeks
+
 ## 🎯 Program Overview
 **6-Week Self-Learning Cloud Computing Internship Program** from **InternCareerPath**
 
