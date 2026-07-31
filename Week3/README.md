@@ -58,5 +58,5 @@ Finish Project 1 by improving security, creating documentation, and building arc
 
 ## Next Steps
 - ✅ Project 1 complete
-- 🔜 Week 4: Begin Project 2 - Infrastructure as Code (Terraform)
+- 🔜 Week 4: Begin Project 2 - Infrastructure as Code (Terraform).
 
