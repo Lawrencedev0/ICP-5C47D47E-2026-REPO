@@ -68,5 +68,5 @@
 1. Present plan to user for approval
 2. Create all files in phases
 3. Update TODO.md as progress is made
-4. Final review and summary
+4. Final review and summary.
 
