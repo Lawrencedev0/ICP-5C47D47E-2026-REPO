@@ -48,5 +48,5 @@ Complete Project 2 by testing, optimizing, and integrating CI/CD. Document all f
 1. **Module reusability** is key for maintaining consistent infrastructure
 2. **Remote state** enables team collaboration but requires careful access management
 3. **Terragrunt** could further reduce code duplication across environments
-4. **Pre-commit hooks** help maintain code quality with Terraform
+4. **Pre-commit hooks** help maintain code quality with Terraform.
 
