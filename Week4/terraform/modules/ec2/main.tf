@@ -54,9 +54,20 @@ resource "aws_instance" "this" {
   vpc_security_group_ids      = var.security_group_ids
   associate_public_ip_address = var.assign_public_ip
   key_name                    = var.ssh_key_name
-  user_data                   = var.user_data
-  user_data_replace_on_change = false
-
+  user_data_replace_on_change = True
+  
+  user_data = <<-EOF
+    #!/bin/bash
+    yum update -y
+    yum install -y httpd
+    systemctl start httpd
+    systemctl enable httpd
+    echo "<h1>Hello from Terraform!</h1>
+     <p>This EC2 instance was provisioned by Terraform</p>
+     <p>Built by Chukwu Chibuike Daniel</p>
+     <p>InternCareerPath Cloud Computing Internship 2026</p>" > /var/www/html/index.html
+  EOF
+  
   root_block_device {
     volume_type           = "gp3"
     volume_size           = var.root_volume_size
