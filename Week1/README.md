@@ -54,5 +54,5 @@ These projects align with my existing knowledge in:
 ## 📝 Notes
 - All infrastructure will be built within AWS Free Tier limits where possible
 - Terraform state will be managed remotely using S3 + DynamoDB
-- Cost monitoring will be implemented from Day 1
+- Cost monitoring will be implemented from Day 1 n
 
