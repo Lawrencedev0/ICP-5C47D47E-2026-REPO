@@ -46,5 +46,5 @@ Start building the VPC Network Architecture project. Design and deploy the initi
 ## 📝 Notes
 - All resources created within AWS Free Tier limits
 - VPC Flow Logs enabled for network monitoring
-- Tagged all resources with `Project: VPC-Network` and `Environment: Development`
+- Tagged all resources with `Project: VPC-Network` and `Environment: Development` e
 
