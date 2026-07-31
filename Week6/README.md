@@ -60,5 +60,5 @@ Week 6: ████████████████████ 100% - Cost
 ---
 
 ## 📝 Final Notes
-This completes the 6-week Self-Learning Cloud Computing Internship Program. All deliverables have been completed, documented, and organized for final submission. The infrastructure designs are production-ready and follow AWS best practices for security, availability, and cost optimization.
+This completes the 6-week Self-Learning Cloud Computing Internship Program. All deliverables have been completed, documented, and organized for final submission. The infrastructure designs are production-ready and follow AWS best practices for security, availability, and cost optimization..
 
