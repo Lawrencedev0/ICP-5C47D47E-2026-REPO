@@ -39,5 +39,4 @@
 ### Root (2 files)
 - `README.md` (updated), `.gitignore`
 
-## Overall Self-Assessment: 91/100
-
+## Overall Self-Assessment: 91/100.
