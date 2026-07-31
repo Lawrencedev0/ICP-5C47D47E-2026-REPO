@@ -46,5 +46,5 @@ module "web_server" {
 See `variables.tf` for full documentation.
 
 ## Outputs
-See `outputs.tf` for full documentation.
+See `outputs.tf` for full documentation..
 
